@@ -83,6 +83,8 @@ pitchpilot/
 
 ### 🔹 Results Page
 ![Results Page](startup-evaluator/public/results1.png)
+
+
 ![Results Page](startup-evaluator/public/results2.png)
 
 ## 💡 Contributing
