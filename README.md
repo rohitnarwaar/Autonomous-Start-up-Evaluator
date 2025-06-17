@@ -78,7 +78,7 @@ pitchpilot/
 ### 🔹 Home Page
 ![Home Page](startup-evaluator/public/homescreen.png)
 
-## 🔹 Results Page
+## 🔹 Form Page
 ![Form Page](startup-evaluator/public/form.png)
 
 ### 🔹 Results Page
