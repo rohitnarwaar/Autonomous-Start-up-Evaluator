@@ -73,6 +73,18 @@ pitchpilot/
 ├── README.md
 └── package.json
 
+## 🖼️ Screenshots
+
+### 🔹 Home Page
+![Home Page](startup-evaluator/public/homescreen.png)
+
+## 🔹 Results Page
+![Form Page](startup-evaluator/public/form.png)
+
+### 🔹 Results Page
+![Results Page](startup-evaluator/public/results1.png)
+![Results Page](startup-evaluator/public/results2.png)
+
 ## 💡 Contributing
 Have ideas or improvements? Want to add more evaluation dimensions or tweak UI themes? Contributions are welcome—fork and open a PR!
 
